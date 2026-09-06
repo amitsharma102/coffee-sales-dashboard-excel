@@ -1,6 +1,9 @@
-# ☕ Coffee Sales Dashboard | Microsoft Excel
+# ☕ Coffee Sales Dashboard
 
 An interactive sales analytics dashboard built entirely in Microsoft Excel, consolidating order, customer, and product data into a dynamic reporting tool with cross-linked filters and visual charts.
+
+![Excel](https://img.shields.io/badge/Built%20with-Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-2E8B57?style=flat)
 
 ---
 
