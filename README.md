@@ -7,7 +7,7 @@ An interactive sales analytics dashboard built entirely in Microsoft Excel, cons
 
 ---
 
-## Preview
+## 📊 Preview
 
 ![Dashboard preview](assets/dashboard.png)
 
