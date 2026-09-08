@@ -7,6 +7,12 @@ An interactive sales analytics dashboard built entirely in Microsoft Excel, cons
 
 ---
 
+## Preview
+
+![Dashboard preview](assets/dashboard.png)
+
+---
+
 ## 📌 Project Overview
 
 This project simulates a real-world business intelligence workflow using Excel. Raw sales data was spread across three relational sheets with several missing fields. Using lookup formulas, calculated columns, and pivot-based visualizations, the data was cleaned, enriched, and presented in a fully interactive dashboard — all without any external tools or programming languages.
